@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background-image: linear-gradient(to right, #3e60f7 , #4eabfc,#4ecefc);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -83,4 +83,13 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+}
+.firstsunhead{
+  color: #fff;
+}
+.link{
+  font-size: 10px;
+}
+.header{
+  font-family: 'Dancing Script', cursive;
 }
